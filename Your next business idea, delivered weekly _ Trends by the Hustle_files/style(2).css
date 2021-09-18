@@ -1,0 +1,20 @@
+/*!
+Theme Name: Trends
+Theme URI: https://trends.co/
+Author: Markitasdone
+Author URI: https://markitasdone.com/
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: trends
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+trends is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+
+.ajax-load-more-wrap.infinite .alm-load-more-btn{width: 100% !important}
+.section--weekly--email--content .alm-load-more-btn{display:block  !important}
